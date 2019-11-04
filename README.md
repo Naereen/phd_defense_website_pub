@@ -82,7 +82,7 @@ Internet of Things (IoT), Cognitive Radio, Learning Theory, Collision Mitigation
 
 ----
 
-## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/badges.svg)](https://https://github.com/Naereen/phd-thesis/src/master/LICENSE)
+## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/badges.svg)](https://https://github.com/Naereen/phd_defense_website_pub/src/master/LICENSE)
 [MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE](LICENSE)).
 
 Cette page est inspirée de [celle pour la soutenance de thèse de Jill-Jênn Vie](http://jiji.cat) ([sources](https://github.com/jilljenn/jiji.cat)).
