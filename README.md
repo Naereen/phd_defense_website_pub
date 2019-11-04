@@ -15,8 +15,8 @@ Le pot durera de 15h30 à 17h30, avec un retour groupé pour la famille et les a
 - Salle UBL, dans la bibliothèque (bâtiment à droite en arrivant depuis le parking et le bus).
 - En particulier, [comment venir en bus depuis la gare de Rennes](https://www.google.fr/maps/dir/Gare+de+Rennes/48.1270494,-1.6225533/@48.1166746,-1.6669521,14z/data=!4m13!4m12!1m5!1m1!1s0x480edfb5c53cfb81:0x2cf8c0efc159dfcc!2m2!1d-1.6722622!2d48.1034827!1m0!2m3!6e1!7e2!8j1571220000!3e3) : comptez au minimum 45 minutes !
   Depuis la gare, il faut marcher jusqu'à l'arrêt *Musée des Beaux-Arts*, par l'avenue Jean Janvier, et ensuite prendre
-  + le bus C4, direction ZA Saint-Sulpice, et descendre à l'arrêt *Clos Courtel*, puis marcher 5 minutes plein est (suivre le métro). Il faut rentrer dans la résidence étudiante, en face de l'arrêt de bus *Belle Fontaine*, traverser la résidence (2 minutes) et le parking. La salle UBL est à droite une fois devant le bâtiment principal. <a href="https://www.google.fr/maps/dir/Gare+de+Rennes/48.1270494,-1.6225533/@48.1166746,-1.6669521,14z/data=!4m13!4m12!1m5!1m1!1s0x480edfb5c53cfb81:0x2cf8c0efc159dfcc!2m2!1d-1.6722622!2d48.1034827!1m0!2m3!6e1!7e2!8j1571220000!3e3"><img width="300px" src="Bus_ligneC4.png" alt="Bus_ligneC4.png"></a>
-  + Le bus 64 convient aussi, direction Acigné, et l'arrêt est *Belle Fontaine*. <a href="https://www.google.fr/maps/dir/Gare+de+Rennes/48.1270494,-1.6225533/@48.1166746,-1.6669521,14z/data=!4m13!4m12!1m5!1m1!1s0x480edfb5c53cfb81:0x2cf8c0efc159dfcc!2m2!1d-1.6722622!2d48.1034827!1m0!2m3!6e1!7e2!8j1571220000!3e3"><img width="300px" src="Bus_ligne64.png" alt="Bus_ligne64.png"></a>
+  + le bus C4, direction ZA Saint-Sulpice, et descendre à l'arrêt *Clos Courtel*, puis marcher 5 minutes plein est (suivre le métro). Il faut rentrer dans la résidence étudiante, en face de l'arrêt de bus *Belle Fontaine*, traverser la résidence (2 minutes) et le parking. La salle UBL est à droite une fois devant le bâtiment principal. <a href="https://www.google.fr/maps/dir/Gare+de+Rennes/48.1270494,-1.6225533/@48.1166746,-1.6669521,14z/data=!4m13!4m12!1m5!1m1!1s0x480edfb5c53cfb81:0x2cf8c0efc159dfcc!2m2!1d-1.6722622!2d48.1034827!1m0!2m3!6e1!7e2!8j1571220000!3e3"><img width="300" src="Bus_ligneC4.png" alt="Bus_ligneC4.png"></a>
+  + Le bus 64 convient aussi, direction Acigné, et l'arrêt est *Belle Fontaine*. <a href="https://www.google.fr/maps/dir/Gare+de+Rennes/48.1270494,-1.6225533/@48.1166746,-1.6669521,14z/data=!4m13!4m12!1m5!1m1!1s0x480edfb5c53cfb81:0x2cf8c0efc159dfcc!2m2!1d-1.6722622!2d48.1034827!1m0!2m3!6e1!7e2!8j1571220000!3e3"><img width="300" src="Bus_ligne64.png" alt="Bus_ligne64.png"></a>
 
 
 ## Avec qui ?
@@ -45,8 +45,8 @@ Le pot durera de 15h30 à 17h30, avec un retour groupé pour la famille et les a
 
 ## Liens
 
-- [Manuscrit de thèse](https://perso.crans.org/besson/phd/articles/PhD_thesis__Lilian_Besson.pdf) ([et son code source](https://github.com/Naereen/phd-thesis)), <a href="https://perso.crans.org/besson/phd/articles/PhD_thesis__Lilian_Besson.pdf"><img width="300px" src="these.png" alt="these.png"></a>
-- [Planches utilisées pour la soutenance](https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf) ([et leur code source](https://github.com/Naereen/slides/tree/master/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks)), <a href="https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf"><img width="300px" src="slides.png" alt="slides.png"></a>
+- [Manuscrit de thèse](https://perso.crans.org/besson/phd/articles/PhD_thesis__Lilian_Besson.pdf) ([et son code source](https://github.com/Naereen/phd-thesis)), <a href="https://perso.crans.org/besson/phd/articles/PhD_thesis__Lilian_Besson.pdf"><img width="300" src="these.png" alt="these.png"></a>
+- [Planches utilisées pour la soutenance](https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf) ([et leur code source](https://github.com/Naereen/slides/tree/master/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks)), <a href="https://perso.crans.org/besson/slides/2019_11__PhD_Defense__Multi-players_Bandit_Algorithms_for_Internet_of_Things_Networks/slides.pdf"><img width="300" src="slides.png" alt="slides.png"></a>
 - [Source code des simulations (SMPyBandits)](https://smpybandits.github.io/) (et d'autres sont [sur bitbucket](https://bitbucket.org/scee_ietr/)).
 - Mes publications : sur [mon profil Google Scholar](https://scholar.google.fr/citations?user=bt3upq8AAAAJ), [mon site web](https://perso.crans.org/besson/publications) ou [cette autre page web](https://perso.crans.org/besson/recherche.fr.html), [CV HAL](https://cv.archives-ouvertes.fr/lilian-besson).
 
@@ -90,7 +90,7 @@ Cette page est inspirée de [celle pour la soutenance de thèse de Jill-Jênn Vi
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://https://github.com/Naereen/phd-thesis/commits/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://bitbucket.org/lbesson/ama)
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/phd-thesis/README.md?pixel)](https://https://github.com/Naereen/phd-thesis/)
+[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/phd-thesis/README.md.png?pixel)](https://https://github.com/Naereen/phd-thesis/)
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 [![forthebadge made-with-StrapDownjs](https://img.shields.io/badge/Made%20with-StrapDownjs-1f425f.svg)](https://github.com/Naereen/StrapDown.js)
